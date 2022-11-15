@@ -1,0 +1,95 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: linear-gradient(to bottom, rgb(255, 245, 225), rgb(252, 243, 252));
+  width: 1000px;
+  margin: auto;
+}
+
+.h1ysd {
+  color: rgb(115, 161, 40);
+  font-weight: bold;
+}
+
+.jkdhg {
+  display: grid;
+  grid-template-columns: 710px 300px;
+}
+
+#img1,
+#img2 {
+  width: 150px;
+  height: 150px;
+  margin-left: 10px;
+  border: rgb(115, 161, 40) solid 1px;
+  padding: 1px;
+}
+
+.div1,
+.div2 {
+  display: flex;
+}
+
+#p1,
+#p2 {
+  margin-left: 15px;
+  text-align: justify;
+}
+#p1 {
+  margin-top: 20px;
+}
+#p2 {
+  margin-top: 35px;
+}
+
+.box1 {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 686px;
+  height: 350px;
+  background-color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  border: solid 1px rgb(170, 167, 167);
+}
+.box2 {
+  width: 400px;
+  height: 315px;
+  background-color: rgb(255, 251, 241);
+  padding-left: 10px;
+  border: solid 1px rgb(115, 161, 40);
+}
+
+.box3 {
+  margin-right: 20px;
+  background-color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 686px;
+  border: solid 1px rgb(170, 167, 167);
+}
+
+#vazio {
+  line-height: 10px;
+}
+
+#titulo1,
+#titulo2 {
+  border-bottom: rgb(115, 161, 40) dashed 1px;
+  
+}
+
+.box1 #pdlink {
+  margin-top: 20px;
+}
+
+.box1 #pdlink a {
+  font-weight: bold;
+  color: rgb(54, 172, 240);
+}
+
+#masp {
+  font-style: italic;
+}
